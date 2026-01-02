@@ -34,23 +34,23 @@ Experienced Cloud Platform Architect with over two decades of hands-on expertise
 
 Below are selected repositories demonstrating architecture-level cloud and DevOps capabilities:
 
-### [spring-microservices-docker-k8s](https://github.com/prabhakaran-jm/spring-microservices-docker-k8s)
-Production-ready Spring Boot microservices deployed on Kubernetes with Docker. Demonstrates service discovery, config management, and container orchestration best practices.
-
-### [gke-cloudsql-postgres](https://github.com/prabhakaran-jm/gke-cloudsql-postgres)
-Enterprise GKE deployment integrated with Cloud SQL PostgreSQL. Showcases secure database connectivity, IAM policies, and cloud-native data patterns.
-
-### [gitops-cert-level-2-examples](https://github.com/prabhakaran-jm/gitops-cert-level-2-examples)
-GitOps workflows and certification-level examples using ArgoCD. Highlights declarative infrastructure and continuous delivery practices.
-
 ### [cilium-policypilot](https://github.com/prabhakaran-jm/cilium-policypilot)
-Cilium network policy automation tool (Go). Transforms Hubble flows into safe, verified network policies—real-world Kubernetes security in action.
-
-### [devops-setup-with-vagrant-ansible](https://github.com/prabhakaran-jm/devops-setup-with-vagrant-ansible)
-Automated DevOps environment provisioning using Vagrant and Ansible. Demonstrates infrastructure automation and repeatable local/cloud setups.
+Enterprise Kubernetes network security automation with Cilium. Transforms Hubble flows into least-privilege policies for cloud-native platforms.
 
 ### [mergemind](https://github.com/prabhakaran-jm/mergemind)
-AI-powered GitLab merge request intelligence platform (Python). Analyzes MR data for engineering insights—combining ML and platform engineering.
+Enterprise DevOps intelligence platform with AI-powered GitLab analytics. Cloud-native architecture for engineering metrics and automated insights.
+
+### [ai-compliance-shepherd](https://github.com/prabhakaran-jm/ai-compliance-shepherd)
+Enterprise cloud compliance automation with AI agents. AWS security governance for SOC 2 and HIPAA using Amazon Bedrock and Infrastructure as Code.
+
+### [cloudsage-ai-ops-oracle](https://github.com/prabhakaran-jm/cloudsage-ai-ops-oracle)
+Enterprise AIOps platform with predictive analytics for cloud infrastructure. ML-powered failure forecasting and automated incident response for production systems.
+
+### [co2-shopping-assistant](https://github.com/prabhakaran-jm/co2-shopping-assistant)
+Enterprise multi-agent AI system on GKE with carbon-aware architecture. Cloud-native microservices with environmental sustainability metrics for production workloads.
+
+### [llm-drift-sentinel](https://github.com/prabhakaran-jm/llm-drift-sentinel)
+Enterprise LLM observability platform on GCP Vertex AI. Production-grade drift detection and abuse monitoring with Datadog integration for cloud-native AI workloads.
 
 ## Professional Background
 
